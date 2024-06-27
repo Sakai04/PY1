@@ -1,4 +1,4 @@
-from random import randint
+from random import randint #라이브러리 호출
 
 User_choice = int(input("Enter your choice: "))
 pc_choice = randint(1,100)
